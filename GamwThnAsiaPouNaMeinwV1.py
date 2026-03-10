@@ -11,3 +11,6 @@ asia_list_xwres_new = asia_list_xwres[asia_list_xwres['gdp_per_capita'] > asia_l
 
 print(asia_list_xwres_new.sort_values(by='life_expectancy', ascending=False).head(3))
 
+#Askisi poies xwres se kafe ypiro einai panw apo to meso ployto tis ypiroy poy anikoyn 
+#xeres se kathe ypiro fitaxnw pente listes me kathe ipiro
+
