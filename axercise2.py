@@ -102,3 +102,7 @@ date = date_from_datetime(datetime_str)
 print(date)
 
 #git pull --rebase origin main
+
+"""git add .
+git commit -m "my changes"
+git pull --rebase origin main"""
