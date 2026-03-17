@@ -105,4 +105,7 @@ print(date)
 
 """git add .
 git commit -m "my changes"
+git pull --rebase origin main
+git add .
+git commit -m "save local changes"
 git pull --rebase origin main"""
