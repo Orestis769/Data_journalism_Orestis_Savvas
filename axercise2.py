@@ -107,5 +107,6 @@ print(date)
 git commit -m "my changes"
 git pull --rebase origin main
 git add .
-git commit -m "save local changes"
+git commit -m "save local changes
+git config --global pull.rebase true"
 git pull --rebase origin main"""
