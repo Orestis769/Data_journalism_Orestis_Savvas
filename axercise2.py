@@ -100,3 +100,5 @@ def date_from_datetime(datetime_str):
 datetime_str = "2025-03-04T12:07:19+02:00"
 date = date_from_datetime(datetime_str)
 print(date)
+
+#git pull --rebase origin main
