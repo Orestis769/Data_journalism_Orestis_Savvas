@@ -1,0 +1,9 @@
+# Αρχεία ήχου (πολύ μεγάλα — δεν ανεβαίνουν)
+*.mp3
+tiktok_output/_audio/*.mp3
+tiktok_output/.download_archive.txt
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
